@@ -1,0 +1,9 @@
+{
+    "count" : 2,
+    "ami" : "ami-0b7acb262cc9ea2ea",
+    "instance_type" : "t2.micro",
+    "VMName" : "TestVM",
+    "name" : "tflock",
+    "vpc_id" : "10.0.1.0/24",
+    "subnet_id" : "10.0.1.0/24"
+    }
